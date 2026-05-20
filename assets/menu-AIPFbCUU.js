@@ -1,1 +1,0 @@
-import{C as e}from"./element-Di_zbn_f.js";const r=t=>e({url:"/dsMenu/tree",method:"get",params:t}),s=t=>e({url:"/dsMenu/add",method:"post",data:t}),d=t=>e({url:"/dsMenu/update",method:"post",data:t}),o=t=>e({url:"/dsMenu/remove",method:"post",data:t});export{s as a,r as g,o as r,d as u};
